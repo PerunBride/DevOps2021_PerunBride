@@ -5,7 +5,7 @@ Moj Novy projekt
 - den prvy
 - den druhy
 
-**STACI POZERAT KAM KLIKAS, blbec
+** STACI POZERAT KAM KLIKAS, blbec **
 
 ## Ako nerobit chyby
 
