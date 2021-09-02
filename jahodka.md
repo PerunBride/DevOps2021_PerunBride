@@ -11,6 +11,8 @@ lalalalalalal
 1. pridavam novy text
 2. budem robit teraz push
 
+jahodka je mnamkova, aspon kilo si prosim :-)
+
 ** KONEC **
 
 ## **UPRAVUJEM SI JAHODU, ABY SOM VSETKO VIDELA**
