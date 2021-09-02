@@ -11,3 +11,4 @@ lalalalalalal
 2. budem robit teraz push
 
 ** KONEC **
+**UPRAVUJEM SI JAHODU, ABY SOM VSETKO VIDELA
