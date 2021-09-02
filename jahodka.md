@@ -8,8 +8,11 @@ Jahodka:
 **Jahoda je vytvorena**
 lalalalalalal ------- bebebebebebe
 
+
 1. pridavam novy text
 2. budem robit teraz push
+
+jahodka je mnamkova, aspon kilo si prosim :-)
 
 ** KONEC **
 
