@@ -5,3 +5,4 @@ Jahodka:
 * chybaju mi
 
 **Jahoda je vytvorena**
+lalalalalalal
