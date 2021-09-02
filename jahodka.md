@@ -2,9 +2,11 @@
 Jahodka:
 * uz nie je v zahrade
 * chybaju mi
+* peckaaaaa
+
 
 **Jahoda je vytvorena**
-lalalalalalal
+lalalalalalal ------- bebebebebebe
 
 1. pridavam novy text
 2. budem robit teraz push
