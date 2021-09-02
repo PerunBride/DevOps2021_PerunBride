@@ -6,7 +6,7 @@ Jahodka:
 * hnfiaoghsioghaioghaioehgaeiog
 
 **Jahoda je vytvorena**
-lalalalalalal
+lalalalala-----
 
 1. pridavam novy text
 2. budem robit teraz push
