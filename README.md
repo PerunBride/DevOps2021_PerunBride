@@ -10,6 +10,6 @@ Moj Novy projekt
 ## Ako nerobit chyby
 
 1. pozorne pozeraj
-2. pozorne pozeraj
+
 
 
