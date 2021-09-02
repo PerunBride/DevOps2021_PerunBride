@@ -3,6 +3,7 @@ Jahodka:
 * uz nie je v zahrade
 * dokvitli
 * chybaju miiiiiiiii
+* hnfiaoghsioghaioghaioehgaeiog
 
 **Jahoda je vytvorena**
 lalalalalalal
