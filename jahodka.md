@@ -3,6 +3,7 @@ Jahodka:
 * uz nie je v zahrade
 * chybaju mi
 * peckaaaaa
+* ACH NUKLEUS
 
 
 **Jahoda je vytvorena**
